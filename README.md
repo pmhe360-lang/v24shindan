@@ -1,1 +1,1 @@
-# v24shindan
+# shindan練習用
